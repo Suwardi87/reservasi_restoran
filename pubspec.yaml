@@ -1,0 +1,47 @@
+name: reservasi_restoran
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.4 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  google_fonts: ^6.2.1
+  font_awesome_flutter: ^10.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/avatar_a.png
+    - assets/images/burger1.png
+    - assets/images/burger2.png
+    - assets/images/dessert1.png
+    - assets/images/dessert2.png
+    - assets/images/dessert3.png
+    - assets/images/dessert4.png
+    - assets/images/drink1.png
+    - assets/images/drink2.png
+    - assets/images/hero-bg.png
+    - assets/images/pizza1.png
+    - assets/images/pizza2.png
+    - assets/images/pizza3.png
+    - assets/images/pizza4.png
+    - assets/images/pizza5.png
+    - assets/images/promo1.png
+    - assets/images/promo2.png
+    - assets/images/promo3.png
+    - assets/images/restoran_a.png
+    - assets/images/restoran_b.png
+    - assets/images/salad1.png
+    - assets/images/salad2.png
+  
